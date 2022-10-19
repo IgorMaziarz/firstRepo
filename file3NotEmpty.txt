@@ -1,3 +1,6 @@
 przykladowa podmianka
 
 dodaję linijkę testową i będę robił add/commit/push na zmiany na webpage naszego repozytorium
+
+
+asdasdasdasd
